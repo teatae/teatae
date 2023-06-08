@@ -1,8 +1,7 @@
 <div align="center">
-    Hi there 👋<br>
-    <hr>
+    <h1>Hello 👋 and...</h1>
     <b>Welcome to my Github page!</b><br>
-    You probably came here after visiting my <a href="https://taetae.ca">website</a>, if not go check it out ☺️
+    You probably came here after visiting my <a href="https://taetae.ca">website</a>, if not go check it out 😉
 </div>
 <!--
 **teatae/teatae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

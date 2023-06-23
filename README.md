@@ -1,7 +1,7 @@
 <div align="center">
-    <h1>Hello 👋 and...</h1>
+    <h1>Hi 👋</h1>
     <b>Welcome to my Github page!</b><br>
-    You probably came here after visiting my <a href="https://taetae.ca">website</a>, if not go check it out 😉
+    My name is Tae-Suzanne Ly and here's my <a href="https://taetae.ca">portfolio</a>✨
     <br>
     <a href="https://www.linkedin.com/in/taesuzanne">
         <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn">
@@ -35,7 +35,6 @@
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/teatae)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/teatae)
-
 
 <!--
 **teatae/teatae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

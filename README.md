@@ -1,7 +1,7 @@
 <div align="center">
     <h1>Hi 👋</h1>
     <b>Welcome to my Github page!</b><br>
-    My name is Tae-Suzanne Ly and here's my <a href="https://taetae.ca">portfolio</a>✨
+    My name is Tae and here's my <a href="https://taetae.ca">portfolio</a>✨
     <br>
     <a href="https://www.linkedin.com/in/taesuzanne">
         <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn">

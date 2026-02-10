@@ -1,6 +1,8 @@
 <div align="center">
     <h1>Hi 👋</h1>
+    <
     <b>Welcome to my Github <a href="https://taetae.ca">page</a>✨</b><br>
+    >
     
     <br>
     <a href="https://www.linkedin.com/in/taesuzanne">

@@ -1,7 +1,7 @@
 <div align="center">
     <h1>Hi 👋</h1>
-    <b>Welcome to my Github page!</b><br>
-    <a href="https://taetae.ca">:)</a>✨
+    <b>Welcome to my Github <a href="https://taetae.ca">page</a>✨</b><br>
+    
     <br>
     <a href="https://www.linkedin.com/in/taesuzanne">
         <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn">

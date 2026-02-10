@@ -1,16 +1,6 @@
 <div align="center">
     <h1>Hi 👋</h1>
-    <
-    <b>Welcome to my Github <a href="https://taetae.ca">page</a>✨</b><br>
-    >
-    
-    <br>
-    <a href="https://www.linkedin.com/in/taesuzanne">
-        <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn">
-    </a>
-    <a href="mailto:tae@taetae.ca">
-        <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=minutemailer" alt="e-mail">
-    </a>
+    <b>Welcome to my Github page <a href="https://taetae.ca">✨</a></b><br>
 </div>
 
 ### Languages
